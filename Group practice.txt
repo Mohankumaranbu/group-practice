@@ -1,3 +1,15 @@
+
 Hi Magesh pull this file and modify.
 hi mohan this file is pulled and modified
+<<<<<<< HEAD
 Hi Magesh i've create a New branch you also create new branch
+=======
+<<<<<<< HEAD
+hi mohan am modify one more time
+=======
+Hi Magesh i've create a New branch you also create new branch
+>>>>>>> 6dde94d40bdbbaac7fc7345426dc07c48f083d46
+hi am also create new branch
+
+>>>>>>> 771a08968fcfef404f42a8890ad554bbb8eb0fd2
+hi Magesh pull this file through your branch 
