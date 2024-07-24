@@ -2,6 +2,7 @@
 Hi Magesh pull this file and modify.
 hi mohan this file is pulled and modified
 <<<<<<< HEAD
+<<<<<<< HEAD
 hi mohan am modify one more time
 =======
 Hi Magesh i've create a New branch you also create new branch
@@ -9,3 +10,8 @@ Hi Magesh i've create a New branch you also create new branch
 hi am also create new branch
 changed file to master
 
+=======
+Hi Magesh i've create a New branch you also create new branch
+1234566 pulled branch
+
+hi i've push this file from master
